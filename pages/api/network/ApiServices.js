@@ -1,0 +1,15 @@
+export const ApiServices = {
+    HOME: 'page/home',
+    ABOUT: 'page/about',
+    CONTACT: 'page/contact',
+    QUIN: 'page/quintess',
+    INVEST: 'page/invest',
+    PENT_HOUSE: 'page/penthouse_all',
+    GALLERY: 'page/gallery_all',
+    PROJECT_LIST: 'page/project_all',
+    PROJECT_DETAIL: 'project',
+    CONTACT_FORM: 'contact-form-7/v1/contact-forms/147/feedback',
+    WHY_INVEST_FORM: 'contact-form-7/v1/contact-forms/151/feedback',
+    QUINTESS_FORM: 'contact-form-7/v1/contact-forms/149/feedback',
+    DOWNLOAD_FORM: 'contact-form-7/v1/contact-forms/150/feedback',
+};
